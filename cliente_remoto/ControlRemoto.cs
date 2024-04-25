@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Client
 namespace cliente_remoto
 {
     internal class ControlRemoto
